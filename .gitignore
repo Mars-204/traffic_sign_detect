@@ -1,0 +1,9 @@
+Hackathon.v17i.coco/*/*
+Hackathon.v17i.tensorflow/*/*
+traffic_detect/*/*
+
+Hackathon.v17i.coco/README.dataset.txt
+Hackathon.v17i.tensorflow/README.dataset.txt
+Hackathon.v17i.coco/README.roboflow.txt
+Hackathon.v17i.tensorflow/README.roboflow.txt
+traffic_detect/pyvenv.cfg
